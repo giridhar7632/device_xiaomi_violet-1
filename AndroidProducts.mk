@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/blaze_violet.mk
+    $(LOCAL_DIR)/xtended_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    blaze_violet-userdebug \
-    blaze_violet-user \
-    blaze_violet-eng
+    xtended_violet-userdebug \
+    xtended_violet-user \
+    xtended_violet-eng
